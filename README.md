@@ -4,7 +4,7 @@
 <p>
   Fisher faces algorithm uses Linear Discriminant Analysis(LDA). LDA helps the algorithm to </br>
   differentiate the faces more efficiently than the eigenfaces because it maximizes the </br>
-  between-class scatter and minimizes the within-class scatter,
+  between-class scatter and minimizes the within-class scatter.
   </p>
 
 <p>
